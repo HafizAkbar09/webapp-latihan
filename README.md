@@ -1,2 +1,2 @@
 # webapp-latihan
-Belajar dasar dasar GITHUB
+Belajar dasar dasar GITHUB hingga mengerti
